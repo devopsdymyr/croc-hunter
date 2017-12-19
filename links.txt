@@ -1,5 +1,0 @@
-https://github.com/lachie83/croc-hunter.git
-
-Zero to Kubernetes CI/CD in 5 minutes with Jenkins and Helm
-https://www.youtube.com/watch?v=eMOzF_xAm7w&list=PLLENxhmOcCUhrS3qhW_LmVoLlZVQ8ga-w
-
