@@ -5,13 +5,13 @@
     "cpu": "10m",
     "memory": "128Mi",
     "test": true,
-    "hostname": "croc-hunter.acs.az.estrado.io"
+    "hostname": "jenkins.local"
   },
   "container_repo": {
     "host": "quay.io",
-    "master_acct": "lachie83",
-    "alt_acct": "lachie83",
-    "jenkins_creds_id": "quay_creds",
+    "master_acct": "ernesen",
+    "alt_acct": "ernesen",
+    "jenkins_creds_id": "github",
     "repo": "croc-hunter",
     "dockeremail": ".",
     "dockerfile": "./",

@@ -18,7 +18,4 @@ bin-release/
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
 
-jenkins-values - Copy.yaml
-croc-hunter-master.zip
-jenkins-0.10.2.tgz
 links.txt
