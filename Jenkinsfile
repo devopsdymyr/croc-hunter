@@ -3,7 +3,7 @@
 // load pipeline functions
 // Requires pipeline-github-lib plugin to load library from github
 
-@Library('github.com/ernesen/croc-hunter2@dev')
+@Library('github.com/ernesen/croc-hunter@dev')
 
 def pipeline = new io.estrado.Pipeline()
 
