@@ -2,6 +2,7 @@
 
 // load pipeline functions
 // Requires pipeline-github-lib plugin to load library from github
+// let's try this again
 
 @Library('github.com/ernesen/croc-hunter@master')
 
